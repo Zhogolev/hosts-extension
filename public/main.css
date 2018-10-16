@@ -1,0 +1,51 @@
+body {
+    width: 300px;
+}
+div>div.top-left{
+	margin-right: 1px;
+	width: 240px;
+}
+
+div.top-container{
+	display: inline-flex;
+	margin-right: 1px;
+}
+
+button.hostbutton {
+    height: 60px;
+    width: 60px;
+    vertical-align: center;
+    margin-top: 5px;
+}
+
+button.delete {
+    height: 30px;
+    width: 30px;
+    
+}
+
+button.setproxy {
+    width: 100%;
+}
+input.top-input{
+	width: 230px;
+	margin-top: 10px;
+}
+
+div.container {
+	height: 30px;
+	margin-top:10px;
+	width: 100%
+ }
+
+div.container-main {
+   display: block;
+   width: 100%;
+}
+
+div.output {
+    height: 30px;
+    width: 41%;
+    text-align: center;
+    display: inline-flex;
+}
