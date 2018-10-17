@@ -20,7 +20,9 @@ function constructOptions() {
     });
 }
 
-
+function forCreatingPullRequests(){
+    return "yes it is work"
+}
 function updateRules() {
     console.log('update all routes');
     rules =  [];
